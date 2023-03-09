@@ -1,3 +1,4 @@
+export {};
 // values intended to be randomized for warrior cat OC generation
 const furLength = ["short", "medium", "long"];
 const furTexture = ["straight", "soft", "curly", "dirty", "messy", "clean", "spiky",];
